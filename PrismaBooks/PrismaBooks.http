@@ -1,0 +1,6 @@
+@PrismaBooks_HostAddress = http://localhost:5245
+
+GET {{PrismaBooks_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
